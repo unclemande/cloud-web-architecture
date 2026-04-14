@@ -1,0 +1,3 @@
+# you need to create your terraform.tfvars file and type in your pvc-id and your subnets
+vpc_id = "your-vpc-id"
+public_subnets = ["subnet-xxxx", "subnet-yyyy"]
